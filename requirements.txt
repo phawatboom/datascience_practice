@@ -1,0 +1,4 @@
+pandas==2.2.3
+openpyxl
+ipykernel
+pyzmq==26.2.0

@@ -1,0 +1,10 @@
+.venv/
+.venv-test/
+.venv-py311/
+.python/
+.python311/
+.python-*-installer.exe
+.uv-cache/
+.ipynb_checkpoints/
+__pycache__/
+data/raw/

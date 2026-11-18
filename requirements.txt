@@ -3,3 +3,4 @@ openpyxl
 ipykernel
 pyzmq==26.2.0
 scikit-learn==1.6.1
+matplotlib==3.11.2

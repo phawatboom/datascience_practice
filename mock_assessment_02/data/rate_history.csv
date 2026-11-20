@@ -1,0 +1,9 @@
+carrier,route_type,effective_from,fee_cu
+Standard,Urban,2026-01-01,4.0
+Standard,Urban,2026-04-01,4.8
+Standard,Rural,2026-01-01,8.0
+Standard,Rural,2026-04-01,9.6
+Express,Urban,2026-01-01,7.0
+Express,Urban,2026-04-01,8.4
+Express,Rural,2026-01-01,14.0
+Express,Rural,2026-04-01,16.8
